@@ -1,5 +1,3 @@
-
-
 ## 说在前面
 
 该翻译仅适用于私人使用，不可用于商业用途。
@@ -27,6 +25,24 @@
 
 
 根目录下有一个名叫`guide.md`的文件，这翻译自[https://3d.laingame.net/#/guide](https://3d.laingame.net/#/guide)，也是对于`laingame.net`的玩法说明。
+
+## 进度
+
+- [ ] Cou
+
+- [ ] Dc
+
+- [ ] Dia
+- [ ] Eda
+- [ ] Ekm
+- [ ] Env
+- [ ] Ere
+- [ ] Lda
+- [ ] Special
+- [x] TaK
+- [ ] Tda
+
+
 
 ## 如何使用？
 

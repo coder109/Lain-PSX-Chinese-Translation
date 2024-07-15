@@ -46,7 +46,7 @@
 - [ ] Env
 - [ ] Ere
 - [ ] Lda
-- [ ] Special
+- [x] Special
 - [x] TaK
 - [ ] Tda
 
